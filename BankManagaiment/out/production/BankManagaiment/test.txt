@@ -1,0 +1,12 @@
+{
+"00000001" : {
+"password" : "g2oToHell" , 
+"balance" : 10002.0 , 
+"userName" : "tab2a"
+} , 
+"00000000" : {
+"password" : "goToHell" , 
+"balance" : 1000.0 , 
+"userName" : "taba"
+}
+}
